@@ -66,7 +66,7 @@ O projeto visa identificar qual loja tem o pior desempenho com base nas métrica
   ```
   - Ambiente virtual (Windows):
   ```bash
-  source meu_env/bin/activate
+  meu_ambiente\Scripts\activate
   ```
 
   - Para instalar os requirements do projeto, use o comando:
