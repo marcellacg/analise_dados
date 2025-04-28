@@ -1,0 +1,27 @@
+# Ambiente virtual
+venv/
+.env/
+
+# Arquivos de configuração do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações do VSCode
+.vscode/
+
+# Arquivos de cache e logs
+*.log
+*.sqlite
+*.pot
+
+# Arquivos de distribuição / build
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Arquivos temporários
+*.swp
+*.bak
+*~
