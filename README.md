@@ -59,12 +59,12 @@ O projeto visa identificar qual loja tem o pior desempenho com base nas métrica
   ```
   - Se estiver utilizando um Jupyter Notebook, basta abrir o arquivo .ipynb e executar as células individualmente no próprio VSCode.
 
-  - Ative o ambiente virtual (Linux/macOS):
+  - Ativando o ambiente virtual (Linux/macOS):
   
   ```bash
   source meu_env/bin/activate
   ```
-  Ambiente virtual (Windows):
+  - Ambiente virtual (Windows):
   ```bash
   source meu_env/bin/activate
   ```
