@@ -58,3 +58,18 @@ O projeto visa identificar qual loja tem o pior desempenho com base nas métrica
   python analise_vendas.py
   ```
   - Se estiver utilizando um Jupyter Notebook, basta abrir o arquivo .ipynb e executar as células individualmente no próprio VSCode.
+
+  - Para instalar os requirements do projeto, use o comando:
+
+  ```bash
+  pip install -r requirements.txt
+  ```
+  - Ative o ambiente virtual (Linux/macOS):
+  
+  ```bash
+  source meu_env/bin/activate
+  ```
+  Ambiente virtual (Windows):
+  ```bash
+  source meu_env/bin/activate
+  ```
